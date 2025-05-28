@@ -53,5 +53,5 @@ Here's a snapshot of the technologies and tools I primarily work with:
 ## 📫 How to Reach Me
 
 * **Email:** cedricjose35@gmail.com
-* **LinkedIn:** [www.linkedin.com/in/josehreyes](www.linkedin.com/in/josehreyes)
+* **LinkedIn:** www.linkedin.com/in/josehreyes
 * Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to connect or collaborate.
