@@ -2,8 +2,6 @@
 
 I'm a passionate and proactive Full-Stack Developer from Peru 🇵🇪, dedicated to crafting intuitive, impactful, and user-centric web applications. I enjoy tackling challenging problems and continuously learning new technologies to bring ideas to life.
 
-I'm particularly interested in roles that allow me to leverage my skills in modern JavaScript frameworks, TypeScript, and robust backend solutions.
-
 ---
 
 ## 🚀 My Featured Projects
